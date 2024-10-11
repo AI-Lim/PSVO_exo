@@ -1,0 +1,7 @@
+gradio
+Pillow
+numpy
+opencv-python
+matplotlib
+scikit-image
+scipy
